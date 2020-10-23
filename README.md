@@ -4,6 +4,8 @@ This repo contains Lossless cut .CSV files for the Quake Pro League video files 
 
 Be aware that this repo is currently incomplete, but I will add more .CSV files here as I go through my QPL archive.
 
+**Currently up to 2019-2020 Stage 4 Week 10**
+
 ## How to use these files
 1. Install both [YouTube-DL](https://github.com/ytdl-org/youtube-dl) and [FFmpeg](https://github.com/FFmpeg/FFmpeg). How to do this is beyond the scope of this readme, but can be easily googled.
 
