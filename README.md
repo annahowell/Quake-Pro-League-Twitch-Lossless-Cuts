@@ -2,12 +2,10 @@
 
 This repo contains Lossless cut .CSV files for the Quake Pro League video files available on Twitch, allowing you to prune the downtime between matches (where the 'Back in X minutes' screen appears). When possible the beginning of the video will also contain 10 seconds of each schedule screen. YouTube-DL and Lossless cut are open source and available for Linux, MacOS and Windows.
 
-Be aware that this repo is currently incomplete, but I will add more .CSV files here as I go through my QPL archive.
-
-**Currently up to 2019-2020 Stage 4 Week 10**
+Be aware that this repo is currently incomplete, but I will add more .CSV files here as I go through my QPL archive. **Currently up to the end of 2019-2020 Stage 4**
 
 ## How to use these files
-1. Install both [YouTube-DL](https://github.com/ytdl-org/youtube-dl) and [FFmpeg](https://github.com/FFmpeg/FFmpeg). How to do this is beyond the scope of this readme, but can be easily googled.
+1. Install both YouTube-DL and [FFmpeg](https://github.com/FFmpeg/FFmpeg). How to do this is beyond the scope of this readme, but can be easily googled.
 
 3. Look at [https://www.twitch.tv/quake](https://www.twitch.tv/quake) and determine the URL of the video.
 
